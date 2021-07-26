@@ -8,4 +8,7 @@
 
 `trying to setup my cli to show the branch I'm in`
 
- 
+`more stuff` 
+
+
+`blogger blogger`
